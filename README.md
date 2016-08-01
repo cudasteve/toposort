@@ -14,6 +14,8 @@ then in your code:
 toposort = require('toposort')
 ```
 
+(or access it on the window if you're not using a module loader)
+
 ## Usage
 We want to sort the following graph.
 
