@@ -3,7 +3,7 @@
   "author": "Marcel Klehr <mklehr@gmx.net>",
   "repo": "marcelklehr/toposort",
   "description": "Topological sort of directed ascyclic graphs (like dependecy lists)",
-  "version": "0.2.10",
+  "version": "1.1.0-cudasteve",
   "keywords": [
     "topological",
     "sort",
